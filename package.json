@@ -1,0 +1,11 @@
+{
+  "name": "dataStructureByJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xuyede/dataStructureByJs.git",
+  "author": "xuyede <yede.xu@jyblife.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  }
+}
